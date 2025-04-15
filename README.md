@@ -31,7 +31,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/contact-appointment-manager.git
+git clone https://github.com/Killerbee663/contact-appointment-manager.git
 cd contact-appointment-manager
 npm install
 
